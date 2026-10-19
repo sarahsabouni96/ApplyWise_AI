@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local test files
+test_gemini.py
+
+# Editor settings
+.vscode/
+
+# Private candidate information
+profile.json
+
+

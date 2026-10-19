@@ -1,0 +1,41 @@
+
+{
+  "name": "Example Candidate",
+  "location": "Chemnitz, Germany",
+  "education": [
+    {
+      "degree": "MSc Advanced and Computational Mathematics",
+      "specialization": "Data Science",
+      "university": "Example University"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "SQL",
+    "Git"
+  ],
+  "projects": [
+    {
+      "name": "Used Car Price Prediction",
+      "description": "A machine learning project predicting used car prices using Scikit-learn."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Example Data Analyst",
+      "description": "Example experience analyzing data and developing reports."
+    }
+  ],
+  "currently_learning": [
+    "Streamlit",
+    "Docker",
+    "Machine Learning Deployment"
+  ],
+  "languages": [
+    "English",
+    "German"
+  ]
+}
