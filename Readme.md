@@ -40,7 +40,7 @@ ApplyWise-AI/
 │
 ├── app.py
 ├── main.py
-├── profile-example.json
+├── profile_example.json
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
