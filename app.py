@@ -5,7 +5,7 @@ import streamlit as st
 from google import genai
 
 # Configuration
-MODEL = "gemini-3.8-flash"
+MODEL = "gemini-3.5-flash"
 
 st.set_page_config(
     page_title="AI Job Agent",
